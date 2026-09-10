@@ -12,11 +12,13 @@ import zipfile, os, sys, json
 from datetime import datetime
 
 SRC = os.getcwd()  # GitHub Actions checkout 目录
-# apk/.github 不打进配置包（apk 在网页「影视软件」区块单独下载，避免包膨胀到~100MB）
-EXCLUDE_DIRS = {'.git', '__pycache__', 'apk', '.github'}
-REQUIRED = ['curated.json', 'fan.jar', 'custom_spider.jar', 'pg.jar', 'tvfan/Cloud-drive.txt']
+# apk/.github/build-logs/LiveSpeedTest 不打进配置包（apk 在网页「影视软件」区块单独下载，避免包膨胀到~100MB）
+EXCLUDE_DIRS = {'.git', '__pycache__', 'apk', '.github', 'build-logs', 'LiveSpeedTest'}
+REQUIRED = ['curated.json', 'fan.jar', 'custom_spider.jar', 'pg.jar', 'xyq.jar', 'tvfan/Cloud-drive.txt']
 # 这些文件不应打进 TV 包（本地维护脚本/调试遗留）
-EXCLUDE_FILES = {'sync.bat', 'XBPQ_upgraded.jar', 'update.log', 'HCCX.jar', 'curated-bak-unsafe.json'}
+EXCLUDE_FILES = {'sync.bat', 'XBPQ_upgraded.jar', 'update.log', 'HCCX.jar', 'curated-bak-unsafe.json',
+                 'pack.py', 'update.py', 'gradle.log', 'media-gradle.log', 'alist.json',
+                 'dead_candidates.json', 'health_state.json', 'speed_state.json'}
 
 
 def _localize(name, jar):
