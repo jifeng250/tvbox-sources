@@ -1006,6 +1006,29 @@
    "ext": {
     "json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"
    }
+  },
+  {
+   "key": "新6V磁力",
+   "name": "🧲新6V┃磁力",
+   "type": 3,
+   "api": "csp_SixVGuard",
+   "timeout": 10,
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 0,
+   "ext": "https://www.xb6v.com/"
+  },
+  {
+   "key": "八八看球",
+   "name": "⚽八八┃看球",
+   "type": 3,
+   "api": "csp_KanqiuGuard",
+   "timeout": 10,
+   "searchable": 0,
+   "changeable": 0,
+   "style": {
+    "type": "list"
+   }
   }
  ],
  "parses": [
