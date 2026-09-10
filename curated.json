@@ -1124,6 +1124,75 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 1
+  },
+  {
+   "key": "哔嘀影视",
+   "name": "🐞哔嘀影视",
+   "type": 3,
+   "api": "csp_Bdys",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/jifeng250/tvbox-sources/main/xyq.jar;md5;705ba6e23c4384c37a11dd904727520b",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "https://www.yjys.me",
+   "changeable": 0
+  },
+  {
+   "key": "美剧迷",
+   "name": "🧲美剧迷",
+   "type": 3,
+   "api": "csp_MeijuMi",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/jifeng250/tvbox-sources/main/xyq.jar;md5;705ba6e23c4384c37a11dd904727520b",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "changeable": 0
+  },
+  {
+   "key": "SeedHub",
+   "name": "🧲SeedHub",
+   "type": 3,
+   "api": "csp_SeedHub",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/jifeng250/tvbox-sources/main/xyq.jar;md5;705ba6e23c4384c37a11dd904727520b",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "https://seedhub.info",
+   "changeable": 0
+  },
+  {
+   "key": "阿里盘搜",
+   "name": "📀阿里盘搜(搜索)",
+   "type": 3,
+   "api": "csp_AliPS",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/jifeng250/tvbox-sources/main/xyq.jar;md5;705ba6e23c4384c37a11dd904727520b",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "changeable": 0
+  },
+  {
+   "key": "80S影视",
+   "name": "🧲80S影视",
+   "type": 3,
+   "api": "csp_BLSGod",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/jifeng250/tvbox-sources/main/xyq.jar;md5;705ba6e23c4384c37a11dd904727520b",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "changeable": 0
+  },
+  {
+   "key": "Ikanbot",
+   "name": "👾Ikanbot",
+   "type": 3,
+   "api": "csp_Ikanbot",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/jifeng250/tvbox-sources/main/xyq.jar;md5;705ba6e23c4384c37a11dd904727520b",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "https://v.ikanbot.com",
+   "changeable": 0
   }
  ],
  "parses": [

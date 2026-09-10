@@ -9,7 +9,7 @@
    }
   }
  ],
- "updateTime": "2026-09-10 20:31",
+ "updateTime": "2026-09-10 21:07",
  "warningText": "本地版：jar 走本地文件，断网可用。若源加载不出目录，把 jar 改为 file:///绝对路径（见 README）",
  "sites": [
   {
@@ -1124,6 +1124,75 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 1
+  },
+  {
+   "key": "哔嘀影视",
+   "name": "🐞哔嘀影视",
+   "type": 3,
+   "api": "csp_Bdys",
+   "jar": "./xyq.jar",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "https://www.yjys.me",
+   "changeable": 0
+  },
+  {
+   "key": "美剧迷",
+   "name": "🧲美剧迷",
+   "type": 3,
+   "api": "csp_MeijuMi",
+   "jar": "./xyq.jar",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "changeable": 0
+  },
+  {
+   "key": "SeedHub",
+   "name": "🧲SeedHub",
+   "type": 3,
+   "api": "csp_SeedHub",
+   "jar": "./xyq.jar",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "https://seedhub.info",
+   "changeable": 0
+  },
+  {
+   "key": "阿里盘搜",
+   "name": "📀阿里盘搜(搜索)",
+   "type": 3,
+   "api": "csp_AliPS",
+   "jar": "./xyq.jar",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "changeable": 0
+  },
+  {
+   "key": "80S影视",
+   "name": "🧲80S影视",
+   "type": 3,
+   "api": "csp_BLSGod",
+   "jar": "./xyq.jar",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "changeable": 0
+  },
+  {
+   "key": "Ikanbot",
+   "name": "👾Ikanbot",
+   "type": 3,
+   "api": "csp_Ikanbot",
+   "jar": "./xyq.jar",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "https://v.ikanbot.com",
+   "changeable": 0
   }
  ],
  "parses": [

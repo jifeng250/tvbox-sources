@@ -1,7 +1,7 @@
 {
  "spider": "./spider_shorts.jar",
  "wallpaper": "https://picsum.photos/1920/1080",
- "updateTime": "2026-09-10 20:31",
+ "updateTime": "2026-09-10 21:07",
  "warningText": "本地版：jar 走本地文件，断网可用。若源加载不出目录，把 jar 改为 file:///绝对路径（见 README）",
  "sites": [
   {
