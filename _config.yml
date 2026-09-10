@@ -1,0 +1,26 @@
+# GitHub Pages 构建配置 - 只发布静态文件，排除所有非页面资源
+# 防止 Jekyll 遍历/处理仓库里的 jar/zip/apk 大文件导致构建失败
+exclude:
+  - "*.jar"
+  - "*.zip"
+  - "*.apk"
+  - "*.json"
+  - "*.txt"
+  - "*.png"
+  - "*.webmanifest"
+  - README.md
+  - "TVBox影视源使用说明.md"
+  - docs
+  - apk
+  - LiveSpeedTest
+  - tools
+  - scripts
+  - .github
+  - fan.jar
+  - custom_spider.jar
+  - pg.jar
+  - spider_shorts.jar
+include:
+  - index.html
+  - version.json
+  - .nojekyll
