@@ -9,7 +9,7 @@
    }
   }
  ],
- "updateTime": "2026-09-09 16:15",
+ "updateTime": "2026-09-10 18:50",
  "warningText": "本地版：jar 走本地文件，断网可用。若源加载不出目录，把 jar 改为 file:///绝对路径（见 README）",
  "sites": [
   {
@@ -990,6 +990,22 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0
+  },
+  {
+   "key": "哔哔合集",
+   "name": "🅱️B站合集(分类+搜全站)",
+   "type": 3,
+   "api": "csp_BiliGuard",
+   "style": {
+    "type": "rect",
+    "ratio": 1.597
+   },
+   "searchable": 1,
+   "quickSearch": 0,
+   "changeable": 0,
+   "ext": {
+    "json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"
+   }
   }
  ],
  "parses": [
