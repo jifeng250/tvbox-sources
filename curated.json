@@ -1193,6 +1193,28 @@
    "filterable": 1,
    "ext": "https://v.aikanbot.com",
    "changeable": 0
+  },
+  {
+   "key": "巴士动漫XYQH",
+   "name": "🚌巴士动漫(规则)",
+   "type": 3,
+   "api": "csp_XYQHiker",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/jifeng250/tvbox-sources/main/xyq.jar;md5;705ba6e23c4384c37a11dd904727520b",
+   "ext": "./XYQHiker/巴士动漫.json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 0
+  },
+  {
+   "key": "哔嘀影视XYQH",
+   "name": "🐞哔嘀影视(规则)",
+   "type": 3,
+   "api": "csp_XYQHiker",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/jifeng250/tvbox-sources/main/xyq.jar;md5;705ba6e23c4384c37a11dd904727520b",
+   "ext": "./XYQHiker/哔嘀影视.json",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 0
   }
  ],
  "parses": [
