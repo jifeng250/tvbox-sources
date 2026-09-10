@@ -1024,7 +1024,7 @@
    "type": 3,
    "api": "csp_KanqiuGuard",
    "timeout": 10,
-   "searchable": 0,
+   "searchable": 1,
    "changeable": 0,
    "style": {
     "type": "list"
