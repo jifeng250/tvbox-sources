@@ -9,7 +9,7 @@
    }
   }
  ],
- "updateTime": "2026-09-10 23:24",
+ "updateTime": "2026-09-13 08:18",
  "warningText": "本地版：jar 走本地文件，断网可用。若源加载不出目录，把 jar 改为 file:///绝对路径（见 README）",
  "sites": [
   {
@@ -989,7 +989,10 @@
    "jar": "./spider_shorts.jar",
    "searchable": 1,
    "quickSearch": 1,
-   "changeable": 0
+   "changeable": 0,
+   "ext": {
+    "cookie": "file://TV/bili_cookie.txt"
+   }
   },
   {
    "key": "哔哔合集",
@@ -1057,7 +1060,7 @@
    "type": 3,
    "api": "csp_HmysGuard",
    "timeout": 10,
-   "playerType": "2",
+   "playerType": 2,
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 1
@@ -1068,7 +1071,7 @@
    "type": 3,
    "api": "csp_AppgzGuard",
    "timeout": 15,
-   "playerType": "2",
+   "playerType": 2,
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 1
@@ -1169,7 +1172,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "changeable": 0
+   "changeable": 0,
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/jifeng250/tvbox-sources/main/lib/token.json"
   },
   {
    "key": "80S影视",

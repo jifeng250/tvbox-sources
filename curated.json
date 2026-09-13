@@ -989,7 +989,10 @@
    "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/jifeng250/tvbox-sources/main/spider_shorts.jar;md5;12d22140c2058f5586dd8f8fd9b2a5a9",
    "searchable": 1,
    "quickSearch": 1,
-   "changeable": 0
+   "changeable": 0,
+   "ext": {
+    "cookie": "file://TV/bili_cookie.txt"
+   }
   },
   {
    "key": "哔哔合集",
@@ -1057,7 +1060,7 @@
    "type": 3,
    "api": "csp_HmysGuard",
    "timeout": 10,
-   "playerType": "2",
+   "playerType": 2,
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 1
@@ -1068,7 +1071,7 @@
    "type": 3,
    "api": "csp_AppgzGuard",
    "timeout": 15,
-   "playerType": "2",
+   "playerType": 2,
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 1
@@ -1169,7 +1172,8 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
-   "changeable": 0
+   "changeable": 0,
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/jifeng250/tvbox-sources/main/lib/token.json"
   },
   {
    "key": "80S影视",

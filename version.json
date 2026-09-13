@@ -1,14 +1,14 @@
 {
-  "version": "20260910",
-  "date": "2026-09-10 23:24",
+  "version": "20260913",
+  "date": "2026-09-13 08:18",
   "size": "6.18 MB",
   "sites": 62,
-  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/jifeng250/tvbox-sources/main/tvbox-sources-20260910.zip",
+  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/jifeng250/tvbox-sources/main/tvbox-sources-20260913.zip",
   "urls": [
-    "https://gh-proxy.com/https://raw.githubusercontent.com/jifeng250/tvbox-sources/main/tvbox-sources-20260910.zip",
-    "https://ghproxy.net/https://raw.githubusercontent.com/jifeng250/tvbox-sources/main/tvbox-sources-20260910.zip",
-    "https://fastly.jsdelivr.net/gh/jifeng250/tvbox-sources@main/tvbox-sources-20260910.zip",
-    "https://gcore.jsdelivr.net/gh/jifeng250/tvbox-sources@main/tvbox-sources-20260910.zip",
-    "https://raw.githubusercontent.com/jifeng250/tvbox-sources/main/tvbox-sources-20260910.zip"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/jifeng250/tvbox-sources/main/tvbox-sources-20260913.zip",
+    "https://ghproxy.net/https://raw.githubusercontent.com/jifeng250/tvbox-sources/main/tvbox-sources-20260913.zip",
+    "https://fastly.jsdelivr.net/gh/jifeng250/tvbox-sources@main/tvbox-sources-20260913.zip",
+    "https://gcore.jsdelivr.net/gh/jifeng250/tvbox-sources@main/tvbox-sources-20260913.zip",
+    "https://raw.githubusercontent.com/jifeng250/tvbox-sources/main/tvbox-sources-20260913.zip"
   ]
 }
